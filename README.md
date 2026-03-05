@@ -24,22 +24,23 @@ The goal was to turn raw data into actionable insights to support business decis
 Ecommerce-sales-analysis-sql-excel/
 │
 ├─ Data/
-│ ├─ df_Orders.csv
-│ ├─ df_Customers.csv
-│ ├─ df_OrderItems.csv
-│ ├─ df_Products.csv
-│ └─ df_Payments.csv
+│   ├─ df_Orders.csv
+│   ├─ df_Customers.csv
+│   ├─ df_OrderItems.csv
+│   ├─ df_Products.csv
+│   └─ df_Payments.csv
 │
 ├─ SQL/
-│ ├─ Cleaning/
-│ │ └─ cleaning_queries.sql # Scripts for data cleaning and validation
-│ ├─ Views/
-│ │ └─ views_queries.sql # Scripts creating SQL views for analysis
+│   ├─ Cleaning/
+│   │   └─ cleaning_queries.sql   # Scripts for data cleaning and validation
+│   ├─ Views/
+│   │   └─ views_queries.sql      # Scripts creating SQL views for analysis
 │
 ├─ DashBoard/
-│ └─ Ecommerce_Dashboard.png # Screenshot of interactive Excel dashboard
+│   └─ Ecommerce_Dashboard.png    # Screenshot of interactive Excel dashboard
 │
 └─ README.md
+
 
 ---
 
