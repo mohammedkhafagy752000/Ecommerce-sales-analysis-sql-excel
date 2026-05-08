@@ -19,8 +19,7 @@ The workflow involved:
 The goal was to turn raw data into actionable insights to support business decision-making.
 
 ---
-
-'''
+```
 ## Project Structure
 Ecommerce-sales-analysis-sql-excel/
 │
@@ -41,9 +40,7 @@ Ecommerce-sales-analysis-sql-excel/
 │   └─ Ecommerce_Dashboard.png    # Screenshot of interactive Excel dashboard
 │
 └─ README.md
-
-'''
-
+```
 ---
 
 ## Key Insights
